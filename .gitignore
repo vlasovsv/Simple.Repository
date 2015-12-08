@@ -1,0 +1,8 @@
+/packages
+/.vs
+/Simple.Repository/obj
+/Simple.Repository/bin
+/Simple.Repository.Rest/obj
+/Simple.Repository.Rest/bin
+/Simple.Repository.Tests/obj
+/Simple.Repository.Tests/bin
